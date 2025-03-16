@@ -1,0 +1,12 @@
+{
+    "database_path": "/var/lib/fic/db.json",
+    "fic_log_path": "/var/log/fic.log",
+    "scan_paths": [
+        "/sda1/data/apps/",
+        "/sda1/data/basic/",
+        "/sda1/data/core/"
+    ],
+    "scan_files": [
+        
+    ]
+}
